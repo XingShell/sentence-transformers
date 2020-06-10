@@ -6,3 +6,6 @@ sentence_transformers.egg-info
 dist/
 nr_*/
 /examples/training_transformers/output
+/sentence_transformers/bert-base-uncased/
+/sentence_transformers/datasets/AllNLI.zip
+/sentence_transformers/datasets/AllNLI/
